@@ -2,7 +2,7 @@
 
 The objective of this lab is to implement a Card class, a Card Pile class, a Simple UI class, and fix the Blackjack Game class. The lab also involves using an ArrayList and performing user I/O.
 
-# Duration
+## Duration
 This lab is expected to take approximately two weeks to complete.
 
 Game Description
