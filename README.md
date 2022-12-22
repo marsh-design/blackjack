@@ -5,7 +5,7 @@ The objective of this lab is to implement a Card class, a Card Pile class, a Sim
 ## Duration
 This lab is expected to take approximately two weeks to complete.
 
-Game Description
+## Game Description
 Blackjack is the most popular casino gambling game in the world. In this lab, we will be implementing a simplified version of the game, where the rules favor the casino and the Ace always has a score of 1.
 
 Here's how the game works:
@@ -29,7 +29,8 @@ The player wins if:
 They don't go over 21 and the House does go over 21.
 Both the player's and the House's scores are 21 or under and the player's score is more than the House's.
 Classes
-The following classes are implemented as part of this lab:
+
+## The following classes are implemented as part of this lab:
 
 Card: This class represents a single card in a deck of cards. It has fields for the rank and suit of the card.
 
@@ -45,7 +46,7 @@ An ArrayList is used to store the cards in the Card Pile class. This allows for 
 User I/O
 The Simple UI class provides user input and output for the Blackjack game. It prompts the player to enter commands and displays the current state of the game.
 
-Additional Notes
+## Additional Notes
 Be sure to get the Card Pile class working before proceeding to the other classes. It has its own main method for testing.
 The BlackjackGame and SimpleUI classes have
 
